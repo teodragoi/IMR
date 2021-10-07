@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ImageTracker1
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5547783936007226593
+  m_GuidHigh: 3698273780614821554
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4826808106531207594
+      m_GuidHigh: 11953307166433841051
+    m_SerializedTextureGuid:
+      m_GuidLow: 8423357454782902343
+      m_GuidHigh: 15660972436047148490
+    m_Size: {x: 0.19, y: 0.1012581}
+    m_SpecifySize: 1
+    m_Name: Cactus 1
+    m_Texture: {fileID: 2800000, guid: ec793047c6f974e5ca35c68774f356d9, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5025892560561964449
+      m_GuidHigh: 14378277881865363376
+    m_SerializedTextureGuid:
+      m_GuidLow: 341240647324292062
+      m_GuidHigh: 12991125352430615883
+    m_Size: {x: 0.19, y: 0.133}
+    m_SpecifySize: 1
+    m_Name: Cactus 2
+    m_Texture: {fileID: 2800000, guid: 8eb053de548f04bc4bbd3298adbf49b4, type: 3}
